@@ -104,5 +104,6 @@ The project is currently under active development and refactoring.
 
 ## Developer
 
-**tero-farti**  
-GitHub: https://github.com/tero-farti
+**teri-farti - tf_game**  
+Webite: https://teri-farti.github.io/tf_game_page/
+GitHub: https://github.com/teri-farti
